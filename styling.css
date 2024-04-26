@@ -1,0 +1,34 @@
+h1{
+    color: blue;
+    font-size: 60px;
+}
+
+h2{
+    color: red;
+    font-size: 30px;
+
+}
+p{
+    color: green;
+    font-size: 20px;
+    text-decoration-style: solid;
+    border: 10px solid blue;
+}
+#wale {
+    color: blue;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    border: 5px solid red;
+}
+#faelidae {
+    color: red;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5px solid black;
+}
+#ort {
+    color: blueviolet;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px solid red;
+}
